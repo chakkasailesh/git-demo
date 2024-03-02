@@ -4,3 +4,4 @@ main file line 3
 main file line 4
 main file line 5
 main file line 6
+main file line 7
