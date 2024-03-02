@@ -1,3 +1,4 @@
 feature file line 1
 feature file line 2
 feature file line 3
+feature file line 4
